@@ -18,5 +18,5 @@ Gunakan perintah `` dart install `` pada command prompt atau cmd untuk menginsta
 `` dart
 for(i = 0 ; i <= 10 ; i++){ 
     print("Nomor $i);
-    }
+}
 ``
