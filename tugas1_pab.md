@@ -48,12 +48,16 @@
            Volume Kubus: 64.0
 
 ## **Penjelasan Kode**
-1. **Fungsi ``luasLingkaran(double radius)``
+1. **Fungsi ``luasLingkaran(double radius)``**
      - fungsi ini menerima  satu parameter yaitu ``radius``, yang merupakan jari-jari lingkaran dalam satuan tertentu            (contoh: cm). Rumus untuk menghitung  luaslingkaran adalah:
          - Luas = π * radius^2
          - Pada fungsi ini,nilai π diambil sebesar ``3.14159``.
-2. **Fungsi ``volumeKubus(double sisi)``
+2. **Fungsi ``volumeKubus(double sisi)``**
      - Fungsi ini menerima satu parameter yaitu ``sisi``, yang merupakan panjang dari setiap sisi kubus.
+     - Rumus untuk menghitung volume kubus adalah:
+         - Volume = sisi^3
+
+## **Referensi**  
 
 
            
