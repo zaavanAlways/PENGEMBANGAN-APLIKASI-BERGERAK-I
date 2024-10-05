@@ -13,6 +13,9 @@
 - tugas1_pab.md: Dokumentasi proyek yang menjelaskan cara instalasi, penggunaan, dan penjelesan kode.
 
 #### **Cara Instalasi**
+1. **Persyaratan:*
+   - Pastikan 
+
 
 
 
