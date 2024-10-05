@@ -32,6 +32,7 @@
             double radius = 5.0;
             print("Luas Lingkaran: ${luasLingkaran(radius)}");
           }``
+          - **Contoh Output**
 
 
 
