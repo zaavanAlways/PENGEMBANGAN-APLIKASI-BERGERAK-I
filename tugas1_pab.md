@@ -15,10 +15,12 @@
 #### **Cara Instalasi**
 1. **Persyaratan:**
    - Pastikan `` Dart SDK `` sudah terinstall. Anda dapat memeriksa dan menginstall `` Dart SDK `` dari **tautan resmi**
-2.  **Clone repository proyek (jika di-hosting di Github):
+2.  **Clone repository proyek (jika di-hosting di Github):**
      - git ``clone`` https://github.com/zaavanAlways/dart_proyek_kalkulator_dart.git
      -  ``cd`` dart_proyek_kalkulator_dart
-3. **Jalankan program: Buka ``terminal`` atau  ``command prompt``, lalu arahkan ke folder proyek dan jalankan perintah berikut untuk menjalankan perintah berikut     untuk menjalankan program ``Dart``:
-    - dart run lib/proyek_kalkulator.dart 
+3. **Jalankan program: Buka ``terminal`` atau  ``command prompt``, lalu arahkan ke folder proyek dan jalankan perintah berikut untuk menjalankan perintah            berikut untuk menjalankan program ``Dart``:**
+    - dart run lib/proyek_kalkulator.dart
+
+##### **Cara Penggunaan**
 
 
