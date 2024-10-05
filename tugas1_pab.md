@@ -9,13 +9,16 @@
     |-- proyek_kalkulator.dart
   |--  tugas1_pab.md
 
-- lib/proyek_kalkulator.dart: File utama yang berisi kode program untuk menghitung luas lingkaran dan volume kubus.
-- tugas1_pab.md: Dokumentasi proyek yang menjelaskan cara instalasi, penggunaan, dan penjelesan kode.
+- `` lib/proyek_kalkulator.dart ``: File utama yang berisi kode program untuk menghitung luas lingkaran dan volume kubus.
+- `` tugas1_pab.md ``: Dokumentasi proyek yang menjelaskan cara instalasi, penggunaan, dan penjelesan kode.
 
 #### **Cara Instalasi**
-1. **Persyaratan:*
-   - Pastikan 
-
-
+1. **Persyaratan:**
+   - Pastikan `` Dart SDK `` sudah terinstall. Anda dapat memeriksa dan menginstall `` Dart SDK `` dari **tautan resmi**
+2.  **Clone repository proyek (jika di-hosting di Github):
+   - git ``clone`` https://github.com/zaavanAlways/dart_proyek_kalkulator_dart.git
+   -  ``cd`` dart_proyek_kalkulator_dart
+3. **Jalankan program: Buka ``terminal`` atau  ``command prompt``, lalu arahkan ke folder proyek dan jalankan perintah berikut untuk menjalankan perintah berikut     untuk menjalankan program ``Dart``:
+  - dart run lib/proyek_kalkulator.dart 
 
 
