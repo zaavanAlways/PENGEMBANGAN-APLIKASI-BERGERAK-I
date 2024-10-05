@@ -34,6 +34,20 @@
           }``
           - **Contoh Output:**
             Luas Lingkaran: 78.53975
+2. **Menghitung Volume Kubus:**
+     - Untuk menghitung volume kubus, gunakan fungsi ``volumeKubus()``. Fungsi ini membutuhkan parameter berupa panjang sisi kubus.
+         - ``double volumeKubus(double sisi) {
+               return sisi * sisi * sisi;
+              }
+              // Contoh penggunaan
+                void main() {
+                double sisi = 4.0;
+                print("Volume Kubus: ${volumeKubus(sisi)}");
+                } ``
+         - **COntoh Output:**
+           Volume Kubus: 64.0
+
+           
 
 
 
